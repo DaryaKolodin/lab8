@@ -4,6 +4,9 @@ import java.util.Map;
 import java.util.TreeMap;
 
 public class FirstPart {
+    public void TEST(){
+        //github GOVNO
+    }
     public static void addAndDelete(ArrayList<String> list) {
         list.add("Lesha");
         list.add("JoJo");
