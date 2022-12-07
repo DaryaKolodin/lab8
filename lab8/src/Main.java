@@ -11,6 +11,7 @@ public class Main {
         ArrayList<String> list = new ArrayList<>();
         System.out.println(" -- ADD --"); // 1
         SecondPart.add(list);
+
         System.out.println(" -- DELETE --"); // 1
         SecondPart.delete(list);
         System.out.println(" -- Find Substring --"); // 6
