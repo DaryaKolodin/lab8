@@ -5,6 +5,9 @@ import java.util.TreeMap;
 
 public class FirstPart {
 
+    public void Test(){
+        // test method
+    }
 
     public static void addAndDelete(ArrayList<String> list) {
         list.add("Lesha");
